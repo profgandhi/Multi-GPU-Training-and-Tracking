@@ -1,0 +1,5 @@
+cifar-100-python.tar.gz
+cifar-100-python
+__pycache__/
+steps/Models/__pycache__
+steps/__pycache__

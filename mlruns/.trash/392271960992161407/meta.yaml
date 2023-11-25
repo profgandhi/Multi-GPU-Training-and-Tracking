@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/392271960992161407
+creation_time: 1700542105649
+experiment_id: '392271960992161407'
+last_update_time: 1700542627015
+lifecycle_stage: deleted
+name: ResNet18
+tags: {}

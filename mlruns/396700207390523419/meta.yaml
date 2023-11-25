@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/396700207390523419
+creation_time: 1700560715291
+experiment_id: '396700207390523419'
+last_update_time: 1700560715291
+lifecycle_stage: active
+name: ResNet34

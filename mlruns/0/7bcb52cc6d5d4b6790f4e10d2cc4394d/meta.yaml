@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/7bcb52cc6d5d4b6790f4e10d2cc4394d/artifacts
+deleted_time: 1700288428844
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 7bcb52cc6d5d4b6790f4e10d2cc4394d
+run_name: poipoi
+run_uuid: 7bcb52cc6d5d4b6790f4e10d2cc4394d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700288174043
+status: 1
+tags: []
+user_id: unknown

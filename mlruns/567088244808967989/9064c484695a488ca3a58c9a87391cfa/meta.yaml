@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/567088244808967989/9064c484695a488ca3a58c9a87391cfa/artifacts
+deleted_time: 1700899819261
+end_time: null
+entry_point_name: ''
+experiment_id: '567088244808967989'
+lifecycle_stage: deleted
+run_id: 9064c484695a488ca3a58c9a87391cfa
+run_name: GPU:1
+run_uuid: 9064c484695a488ca3a58c9a87391cfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700899433225
+status: 1
+tags: []
+user_id: unknown
